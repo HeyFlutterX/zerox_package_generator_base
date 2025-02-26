@@ -1,0 +1,14 @@
+name: zerox_package_generator_base
+description: Provides Utility methods for generating code automatically
+version: 0.0.1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  path: any
+
+dev_dependencies:
+  flutter:
+    sdk: flutter
+  lints: ^5.1.1

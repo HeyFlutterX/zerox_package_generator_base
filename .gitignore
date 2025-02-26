@@ -1,0 +1,41 @@
+# Dart related files
+.dart_tool/
+.packages
+.pub/
+build/
+data/credentials.env
+# Uncomment if you have Flutter:
+# .flutter-plugins
+# .flutter-plugins-dependencies
+# .dart_tools/
+# .idea/
+# .packages
+
+# IDEs and Editors
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+# VS Code
+.vscode/
+.history/
+# Sublime Text
+sublime-workspace
+sublime-project
+
+# Mac OS / iOS
+.DS_Store
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux file backups
+*~
+
+# Logs and generated files
+*.log
+*.lock
+*.pid
